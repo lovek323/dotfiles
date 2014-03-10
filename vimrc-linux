@@ -1,0 +1,8 @@
+set runtimepath+=~/.nix-profile/vim-plugins/eighties
+set runtimepath+=~/.nix-profile/vim-plugins/golang
+set runtimepath+=~/.nix-profile/vim-plugins/ipython
+set runtimepath+=~/.nix-profile/vim-plugins/syntastic
+set runtimepath+=~/.nix-profile/vim-plugins/tagbar
+set runtimepath+=~/.nix-profile/vim-plugins/vimshell
+
+source $HOME/.nix-profile/lib/python2.7/site-packages/Powerline-beta-py2.7.egg/powerline/bindings/vim/plugin/powerline.vim
